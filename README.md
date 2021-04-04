@@ -33,5 +33,5 @@ Then the counter will be reset to 0 to allow next subsequent 5 requests to succe
 This is obviously a contrived and rather simple basic implementation.
 
 # Notes on API Key
-Please substitute your own api key in properties file
+Please substitute your own api key in properties file.
 
